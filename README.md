@@ -16,7 +16,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/httpbench.git
+git clone https://github.com/wangfanstar/httpbench.git
 cd httpbench
 
 # 编译
